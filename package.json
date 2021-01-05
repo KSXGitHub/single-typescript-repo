@@ -12,7 +12,7 @@
     "babel-jest": "^24.0.0",
     "ts-jest": "^24.0.0",
     "yaml-jest": "^1.0.5",
-    "iter-tools": "^6.1.4",
+    "iter-tools": "^7.0.0",
     "clean-typescript-build": "^0.1.0",
     "@types/jest": "^24.0.0"
   },
